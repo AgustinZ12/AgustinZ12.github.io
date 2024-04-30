@@ -7,6 +7,24 @@
 html,
 body {
 	font-family: 'Raleway', sans-serif;
-	background: #f3f4f6;
-	color: #7a707d;
+	background: #b5bbc9;
+	color: #585658;
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+h2 {
+	font-size: 2rem;
+}
+h4 {
+	font-size: 1.5rem;
+}
+
+h1,
+h2,
+h4 {
+	margin-bottom: 15px;
+	color: #000;
+	font-weight: 800;
 }
