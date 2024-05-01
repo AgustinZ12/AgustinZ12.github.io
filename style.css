@@ -100,3 +100,12 @@ a {
 .bk-color {
 	background: #f3f4f6;
 }
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-box {
+	flex: 1;
+}
