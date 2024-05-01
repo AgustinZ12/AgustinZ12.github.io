@@ -94,7 +94,7 @@ a {
 	background: url('/images/showcase.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: cover;
+	background-size: cover
 }
 
 .bk-color {
@@ -108,6 +108,10 @@ a {
 
 .flex-box {
 	flex: 1;
+}
+
+.imagen {
+	border-radius: 50%;
 }
 
 .navbar {
