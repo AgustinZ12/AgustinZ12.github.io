@@ -7,8 +7,8 @@
 html,
 body {
 	font-family: 'Raleway', sans-serif;
-	background: #b5bbc9;
-	color: #585658;
+	background: #7e4f28;
+	color: #e6e6e6;
 }
 
 h1 {
@@ -98,7 +98,7 @@ a {
 }
 
 .bk-color {
-	background: #f3f4f6;
+	background: #a0a1a3;
 }
 
 .flex {
@@ -136,7 +136,16 @@ a {
 }
 
 .navbar ul li a {
-	color: #7a797d;
+	color: #afafaf;
 	font-size: 18px;
 	font-weight: 500;
+}
+
+#showcase .container {
+	padding-top: 450px;
+}
+
+
+#work img {
+	height: 450px;
 }
