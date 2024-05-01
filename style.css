@@ -109,3 +109,34 @@ a {
 .flex-box {
 	flex: 1;
 }
+
+.navbar {
+	height: 90px;
+}
+
+.navbar .logo a {
+	color: #7a797d;
+	font-size: 2rem;
+	font-weight: 800;
+}
+
+.navbar .contenedor {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+
+.navbar ul {
+	display: flex;
+}
+
+.navbar ul li {
+	margin-left: 20px;
+}
+
+.navbar ul li a {
+	color: #7a797d;
+	font-size: 18px;
+	font-weight: 500;
+}
