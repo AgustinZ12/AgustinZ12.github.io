@@ -28,3 +28,22 @@ h4 {
 	color: #000;
 	font-weight: 800;
 }
+
+ul {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	font-size: 1rem;
+	margin: 10px 0;
+	line-height: 1.7em;
+	font-weight: 200;
+}
+
+a {
+	text-decoration: none;
+}
