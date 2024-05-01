@@ -69,3 +69,34 @@ a {
 .actual {
 	text-decoration: underline;
 }
+
+.p-1 {
+	padding: 80px;
+}
+
+.ptb-1 {
+	padding: 150px 0;
+}
+
+.ptb-2 {
+	padding: 200px 0;
+}
+
+.pb-1 {
+	padding-bottom: 50px;
+}
+
+.pr-1 {
+	padding-right: 40px;
+}
+
+.bk-showcase {
+	background: url('/images/showcase.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.bk-color {
+	background: #f3f4f6;
+}
